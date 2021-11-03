@@ -1,7 +1,7 @@
 import BarChart from "assests/Components/BarChart";
 import DataTable from "assests/Components/DataTable";
 import DonutChart from "assests/Components/DonutChart";
-import Footer from "assests/Components/Footer";
+import Footer from "assests/Components/Footer/Footer";
 import NavBar from "assests/Components/NavBar/NavBar";
 
 
