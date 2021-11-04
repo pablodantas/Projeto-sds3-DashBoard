@@ -30,9 +30,10 @@ public class Sale {
 		
 	}
 	
-	public Sale(long id, Integer deals, Double amount, LocalDate date, Seller seller) {
+	public Sale(long id, Integer visited, Integer deals, Double amount, LocalDate date, Seller seller) {
 		super();
 		this.id = id;
+		this.visited = visited;
 		this.deals = deals;
 		this.amount = amount;
 		this.date = date;
